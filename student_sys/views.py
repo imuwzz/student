@@ -5,3 +5,5 @@ def Test():
     pass
 def Test2():
     pass
+def Test3():
+    pass
